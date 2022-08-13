@@ -2,8 +2,7 @@ const path = require("path")
 
 module.exports = {
   entry: {
-    index: "./src/index.js",
-    neo: "./src/neo.js"
+    index: "./src/index.js"
   },
 
   output: {
